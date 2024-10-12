@@ -15,7 +15,7 @@ You can find this project at https://roadmap.sh/projects/server-stats
 # How to run
 
 After downloading you can make it executable by running:
-  'chmod +x server-stats.sh'
+  `chmod +x server-stats.sh`
 
 Then run it using:
-  './server-stats.sh'
+  `./server-stats.sh`
