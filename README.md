@@ -9,5 +9,5 @@ This script displays:
 - Top 5 processes by CPU usage
 - Top 5 processes by memory usage
 
-  This project is part of the suggested projects for the DevOps roadmap of https://roadmap.sh
-  You can find this project at https://roadmap.sh/projects/server-stats
+  This project is part of the suggested projects for the DevOps roadmap of https://roadmap.sh .
+  You can find this project at https://roadmap.sh/projects/server-stats .
